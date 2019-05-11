@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Podcast Management with Laravel
+## Podcast Management RESTFul API with Laravel
 
 Steps to configure project
 
