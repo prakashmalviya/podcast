@@ -267,7 +267,7 @@
 					"response": []
 				},
 				{
-					"name": "Fag Comment",
+					"name": "Flag Comment",
 					"request": {
 						"method": "DELETE",
 						"header": [
